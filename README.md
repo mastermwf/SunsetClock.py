@@ -36,6 +36,7 @@ Now you’re ready to use PyEphem.
 To start SunsetClock;
 
 open a Terminal cd to the folder that contains SunsetClock.py and clock1.ppm 
+
 type: python SunsetClock.py
 
 Note: The size of the image determines the size of the window. If the window does not fit your display, then resize the image with GIMP or ImageMagik. If you cannot see the numbers of the clock then remove some of the \n characters in line 55

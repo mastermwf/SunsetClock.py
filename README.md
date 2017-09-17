@@ -11,6 +11,10 @@ I use a Raspberry Pi running Raspian with Python 2.7 and it works quite well. Th
 
 The dependencies are PyEphem and python-dev for either Python 2.7 or 3.x, whichever is installed on your system.
 
+UPDATE: After switching to Linux Mint I discovered that python-tk can be used in place of python-dev. 
+To install python-tk type: sudo apt-get install python-tk for Python 2.7 and
+type: sudo apt-get install python3-tk for Python 3.x
+
 The most recent version of PyEphem may be obtained from:
 
 http://pypi.python.org/pypi/pyephem
